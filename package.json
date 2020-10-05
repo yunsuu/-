@@ -1,0 +1,22 @@
+{
+  "name": "dffsd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expess": "0.0.1-security",
+    "express": "^4.17.1",
+    "kor-string-similarity": "^1.0.2",
+    "leven": "^3.1.0",
+    "quote": "^0.4.0",
+    "randomcolor": "^0.6.2",
+    "string-similarity-js": "^2.1.2",
+    "tmi.js": "^1.5.0"
+  }
+}
